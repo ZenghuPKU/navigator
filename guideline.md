@@ -8,11 +8,14 @@ cp /media/zenglab/script/yly/navigator.R /media/zenglab/result/YourDirectory/nav
 ```
 
 ### Open RStudio Server in your browser
+
 http://10.128.243.62:8787
-Switch path /media/zenglab/result/YourDirectory in the right panel
-Click navigator.R
-Click "Source" button to run all the code.
-Follow the instructions to sequentially input the path, rgn file name, and maf file name. An output maf file and a plot.png file are expected to be generated.
+
+1. Switch path /media/zenglab/result/YourDirectory in the right panel
+2. Click navigator.R
+3. Click "Source" button to run all the code.
+4. Follow the instructions to sequentially input the path, rgn file name, and maf file name. An output maf file and a plot.png file are expected to be generated.
+
 Here is an example. Ignore any warnings. When the > prompt appears again, it means the operation has finished.
 
 ```batch
