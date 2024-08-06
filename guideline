@@ -1,0 +1,16 @@
+http://10.128.243.62:8787
+
+navigator.R
+
+Click "Source" button to run all the code.
+
+
+`batchfile
+> source("/media/zenglab/result/lingyuan2/leica/navigator.R")
+Please enter the working directory path: /media/zenglab/result/lingyuan2/leica
+Please enter the .rgn filename: A2A3A5.rgn
+Please enter the .maf filename: A2A3A5.maf
+Warning message:
+In readLines(rgn_filename) : incomplete final line found on 'A2A3A5.rgn'
+> 
+`batchfile
