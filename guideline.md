@@ -26,4 +26,4 @@ Please enter the .maf filename: A2A3A5.maf
 Warning message:
 In readLines(rgn_filename) : incomplete final line found on 'A2A3A5.rgn'
 > 
-```batch
+```
